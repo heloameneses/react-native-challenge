@@ -21,7 +21,7 @@ https://github.com/reddit/reddit/wiki/JSON
   ![image](https://user-images.githubusercontent.com/636075/44457253-08f22600-a603-11e8-9df2-6db2ea49b222.png)
 * Once the user taps on a post, navigate to the post’s URL in a WebView.
 * Add a README with an explanation of your design and assumptions and brief instructions on how to run your app.
-* The app must run on iOS and Android.
+* The app must be able to run on Android. If you can support iOS too that's nice. 
 
 ## Evaluation
 
