@@ -25,14 +25,14 @@ https://github.com/reddit/reddit/wiki/JSON
 
 ## Evaluation
 
-The evaluation of the app  will be based off of three criteria:
-* **30%** - UI and UX
-* **40%** - Overall Design and Structure
-* **30%** - Data Management
+The evaluation of the app  will be based on these criteria:
+* UI and UX
+* Overall Design and Structure
+* Data Management
 
 ## Notes
 
 * You can use any existing boilerplate to bootstrap your app, or build your app from scratch. Make sure to explain the choices you made. Keep in mind that the app must be easily executable from the command line.
-* Send us your code with the README in a zip file.
+* Send us a link to the repository where your code is hosted (e.g. Github, Bitbucket...).
 
 Good luck!
